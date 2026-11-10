@@ -1,5 +1,5 @@
 {
- "key": "96c5ce23",
+ "key": "a3ac5730",
  "stars": 0,
  "contributions": 177,
  "repos": 5,
@@ -138,8 +138,8 @@
  "pins": [],
  "all": [
   {
-   "name": "profil",
-   "url": "https://github.com/linksquest-art/profil",
+   "name": "linksquest-art",
+   "url": "https://github.com/ootori-js/linksquest-art",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -148,7 +148,7 @@
   },
   {
    "name": "pcb-clavier-",
-   "url": "https://github.com/linksquest-art/pcb-clavier-",
+   "url": "https://github.com/ootori-js/pcb-clavier-",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -157,7 +157,7 @@
   },
   {
    "name": "pcb-esp32-avec-lan",
-   "url": "https://github.com/linksquest-art/pcb-esp32-avec-lan",
+   "url": "https://github.com/ootori-js/pcb-esp32-avec-lan",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -166,7 +166,7 @@
   },
   {
    "name": "anki-ai-flash-cards",
-   "url": "https://github.com/linksquest-art/anki-ai-flash-cards",
+   "url": "https://github.com/ootori-js/anki-ai-flash-cards",
    "text": "",
    "fork": false,
    "stars": 0,
@@ -175,7 +175,7 @@
   },
   {
    "name": "ai",
-   "url": "https://github.com/linksquest-art/ai",
+   "url": "https://github.com/ootori-js/ai",
    "text": "",
    "fork": false,
    "stars": 0,
