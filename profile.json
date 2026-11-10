@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "login": "linksquest-art",
+  "seed": "#E9B824",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "about",
+    "projects",
+    "stack",
+    "stats",
+    "streak",
+    "wave",
+    "buttons",
+    "socials"
+  ],
+  "hidden": [
+    "socials"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Jules",
+    "subtitle": "AI-powered Anki add-ons, web apps and custom PCBs.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      { "icon": "brand:anki", "label": "Anki · AI" },
+      { "icon": "code", "label": "TypeScript · Python" }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      { "icon": "school", "label": "Building Anki add-ons that turn your courses into flashcards with AI" },
+      { "icon": "language", "label": "Working on the Gama Studio website and its AI SaaS" },
+      { "icon": "memory", "label": "Designing PCBs: an ESP32 board with Ethernet and a mechanical keyboard" }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Languages",
+        "items": [
+          { "icon": "brand:typescript", "label": "TypeScript" },
+          { "icon": "brand:python", "label": "Python" },
+          { "icon": "brand:javascript", "label": "JavaScript" }
+        ]
+      },
+      {
+        "title": "Web & AI",
+        "items": [
+          { "icon": "brand:nextdotjs", "label": "Next.js" },
+          { "icon": "brand:react", "label": "React" },
+          { "icon": "brand:tailwindcss", "label": "Tailwind CSS" },
+          { "icon": "brand:supabase", "label": "Supabase" },
+          { "icon": "brand:stripe", "label": "Stripe" },
+          { "icon": "smart_toy", "label": "OpenAI · OpenRouter" }
+        ]
+      },
+      {
+        "title": "Hardware & tools",
+        "items": [
+          { "icon": "brand:espressif", "label": "ESP32" },
+          { "icon": "brand:easyeda", "label": "EasyEDA" },
+          { "icon": "brand:anki", "label": "Anki" },
+          { "icon": "brand:git", "label": "Git" }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "anki-ai-flash-cards",
+      "ai",
+      "pcb-esp32-avec-lan",
+      "pcb-clavier-"
+    ],
+    "overrides": {
+      "anki-ai-flash-cards": {
+        "text": "Anki add-on that turns your courses into flashcards, cloze included, with GPT-4o.",
+        "icon": "brand:anki"
+      },
+      "ai": {
+        "text": "Gama Studio Pro AI: an AI SaaS built with Next.js, OpenRouter and Supabase.",
+        "icon": "smart_toy"
+      },
+      "pcb-esp32-avec-lan": {
+        "text": "Custom ESP32 board with Ethernet: schematic, BOM and Gerber files.",
+        "icon": "lan"
+      },
+      "pcb-clavier-": {
+        "text": "Schematic of a custom mechanical keyboard PCB.",
+        "icon": "keyboard"
+      }
+    },
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      { "icon": "brand:github", "url": "https://github.com/linksquest-art" }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      { "icon": "book_2", "label": "All repositories", "url": "", "style": "filled" }
+    ]
+  }
+}
