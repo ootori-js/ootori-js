@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "login": "linksquest-art",
+  "login": "ootori-js",
   "seed": "#E9B824",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
@@ -120,7 +120,7 @@
   },
   "socials": {
     "items": [
-      { "icon": "brand:github", "url": "https://github.com/linksquest-art" }
+      { "icon": "brand:github", "url": "https://github.com/ootori-js" }
     ],
     "variant": "chip",
     "fill": "tonal",
