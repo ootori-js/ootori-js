@@ -1,5 +1,5 @@
 {
- "key": "a3ac5730",
+ "key": "f44b7932",
  "stars": 0,
  "contributions": 177,
  "repos": 5,
@@ -138,8 +138,8 @@
  "pins": [],
  "all": [
   {
-   "name": "linksquest-art",
-   "url": "https://github.com/ootori-js/linksquest-art",
+   "name": "ootori-js",
+   "url": "https://github.com/ootori-js/ootori-js",
    "text": "",
    "fork": false,
    "stars": 0,
