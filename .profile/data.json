@@ -1,0 +1,186 @@
+{
+ "key": "9c999e4",
+ "stars": 0,
+ "contributions": 177,
+ "repos": 5,
+ "followers": 1,
+ "languages": [
+  [
+   "TypeScript",
+   39360848
+  ],
+  [
+   "JavaScript",
+   2945330
+  ],
+  [
+   "Python",
+   1505910
+  ],
+  [
+   "HTML",
+   192906
+  ],
+  [
+   "CSS",
+   18543
+  ],
+  [
+   "Mermaid",
+   7670
+  ],
+  [
+   "C",
+   5587
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 10,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "profil",
+   "url": "https://github.com/linksquest-art/profil",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "pcb-clavier-",
+   "url": "https://github.com/linksquest-art/pcb-clavier-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "pcb-esp32-avec-lan",
+   "url": "https://github.com/linksquest-art/pcb-esp32-avec-lan",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "anki-ai-flash-cards",
+   "url": "https://github.com/linksquest-art/anki-ai-flash-cards",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "ai",
+   "url": "https://github.com/linksquest-art/ai",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  }
+ ]
+}
